@@ -1,0 +1,16 @@
+@import "~bootstrap";
+html {
+	height: 100%;
+}
+body{
+	background: url("/bg.png");
+}
+
+p,h1 {
+	color: white;
+}
+
+form {
+	width: 600px;
+	max-width: 100%;
+}
